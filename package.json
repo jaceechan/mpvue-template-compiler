@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "mpvue-template-compiler@1.0.18",
+      "/Users/JC/Documents/Git/app-javascript/mall-mpvue"
+    ]
+  ],
+  "_development": true,
+  "_from": "mpvue-template-compiler@1.0.18",
+  "_id": "mpvue-template-compiler@1.0.18",
+  "_inBundle": false,
+  "_integrity": "sha512-vdPZFaXwFZpgPOLrTfzTUbPfp3Kk49D6o50vxSXL/ed6kligLoJDw3M1H7Sk+JEONiG0FeVrKolzaEHcw5LIqQ==",
+  "_location": "/mpvue-template-compiler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mpvue-template-compiler@1.0.18",
+    "name": "mpvue-template-compiler",
+    "escapedName": "mpvue-template-compiler",
+    "rawSpec": "1.0.18",
+    "saveSpec": null,
+    "fetchSpec": "1.0.18"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://172.25.62.87:10000/mpvue-template-compiler/-/mpvue-template-compiler-1.0.18.tgz",
+  "_spec": "1.0.18",
+  "_where": "/Users/JC/Documents/Git/app-javascript/mall-mpvue",
+  "author": {
+    "name": "meituan.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Meituan-Dianping/mpvue/issues"
+  },
+  "dependencies": {
+    "de-indent": "^1.0.2",
+    "he": "^1.1.0"
+  },
+  "description": "mpvue template compiler for Vue",
+  "homepage": "https://github.com/Meituan-Dianping/mpvue/",
+  "keywords": [
+    "vue",
+    "compiler",
+    "mp",
+    "mp",
+    "antmp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mpvue-template-compiler",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meituan-Dianping/mpvue.git"
+  },
+  "version": "1.0.18"
+}
